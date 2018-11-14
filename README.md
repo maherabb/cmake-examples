@@ -1,2 +1,3 @@
-# cmake-examples
-micuninja.com cmake examples
+# Cmake examples
+
+CMake examples from <https://micuninja.com/>
